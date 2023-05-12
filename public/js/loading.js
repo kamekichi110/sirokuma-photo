@@ -1,4 +1,4 @@
-const loading = document.querySelector( '.loading' );
+const loading = document.querySelector( '.loader' );
  
 window.addEventListener( 'load', () => {
   loading.classList.add( 'hide' );

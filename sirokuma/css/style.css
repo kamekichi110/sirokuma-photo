@@ -1,0 +1,36 @@
+body {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    width: 375px;
+    height: auto;
+}
+div.head {
+    width: 375px;
+    height: 100px;
+    font-size: 0.8em;
+    background-color: aquamarine;
+    display: flex;
+}
+div.head img {
+    height: 100px;
+}
+div.article {
+    width: 375px;
+    background-color: burlywood;
+    display: flex;
+}
+div.side {
+    margin: 2px;
+    width: 96px;
+    background-color: chocolate;
+    color: floralwhite;
+    order: 0;
+}
+div.content {
+    order: 1;
+    width: 271px;
+    background-color: lemonchiffon;
+    color: maroon;
+}
+img.main {
+    width: 180px;
+}

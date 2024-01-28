@@ -4,7 +4,7 @@ const LoaderScreen = document.getElementById('loader-screen');
 //ロード完了
 window.onload = setTimeout(() => {
     loaded();
-}, 200);
+}, 1000);
 
 //ロード完了時ロード用divを非表示にする
 function loaded() {

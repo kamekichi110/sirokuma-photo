@@ -1,0 +1,8 @@
+#loader-screen img {
+    transform-origin: center;
+    margin: auto auto;
+    width: 50%;
+}
+#loader-screen {
+    width:100%;
+}

@@ -12,3 +12,4 @@ function loaded() {
     }
 
 }
+window.onload = setTimeout(() => {loaded()});

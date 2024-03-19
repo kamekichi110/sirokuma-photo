@@ -1,12 +1,12 @@
 const MV_list = {
     "data": [
         {
-            "title": "YouTube",
-            "url": "https://youtube.com/@kame_ta"
+            "title": "「勇者」歌ってみた",
+            "url": "https://m.youtube.com/shorts/Wp-bx7wOH-4"
         },
         {
-            "title": "Twitter",
-            "url": "https://twitter.com/kame_ta8110"
+            "title": "「きゅうくらりん」歌ってみた",
+            "url": "https://m.youtube.com/shorts/2VnICwu_keA"
         }
     ]
 };

@@ -1,7 +1,13 @@
 const MV_list = {
     "data": {
-        "title": "HOME",
+        {
+        "title": "YouTube",
         "url": "https://youtube.com/@kame_ta"
+        },
+        {
+            "title": "Twitter",
+            "url": "https://twitter.com/kame_ta8110"
+        }
     }
 };
 const displayElement = document.getElementById('mvList');
@@ -12,4 +18,4 @@ function loaded() {
     }
 
 }
-window.onload = setTimeout(() => {loaded()});
+window.onload = setTimeout(() => {loaded()},120);

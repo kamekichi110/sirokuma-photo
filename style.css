@@ -103,6 +103,7 @@ main {
 	min-height: 120px;
 	background-color: white;
 	border-radius: 12px;
+	text-align: center;
 }
 section.news {
 	max-height: 280px;
